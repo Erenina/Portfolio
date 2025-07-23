@@ -4,7 +4,7 @@ export const Bio = {
     roles: ["MIS Student", "Data Engineer Intern"],
     description: 'I transfer the theoretical knowledge I have gained in the field of Management Information Systems to real-world applications through various internships and projects. I aim to improve myself and specialize in data analytics, big data technologies, and software development. I strive to contribute to technology-driven projects with my strong teamwork, analytical thinking, and high learning motivation.',
     descriptionSkills: 'Here are some of my skills I have been developing over the last two years through real-world projects and internships.',
-    cvUrl: 'https://drive.google.com/file/d/1FHKGy_kTepQHfJwYMqaVo64Il4th5Zhm/view?usp=sharing',
+    cvUrl: 'https://drive.google.com/file/d/1bCb8309dBluZiGIhyVRtMN3skUJ8485Q/view?usp=sharing',
     descriptionExperience: 'My internship experience in different companies helped me gain hands-on knowledge in data systems, database management, and software development.',
     descriptionProjects: 'Here are some of the projects and tasks I contributed to during my internships and university education.',
     descriptionContact: 'Feel free to contact me for collaborations, internship opportunities, or any questions!',
