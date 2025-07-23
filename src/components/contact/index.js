@@ -13,7 +13,7 @@ export default function Contact() {
     }
 
     const sendEmail = () => {
-        const email = `mailto:ozkaplanemre1@gmail.com?subject=Kullanıcı Mesajı&body=${encodeURIComponent(message)}`;
+        const email = `mailto:erencagatay@live.com?subject=Kullanıcı Mesajı&body=${encodeURIComponent(message)}`;
         window.location.href = email;
     };
     return (

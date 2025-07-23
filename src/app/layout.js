@@ -5,8 +5,8 @@ import Providers from "./providers";
 const poppins = Poppins({ subsets: ["latin"], weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"] });
 
 export const metadata = {
-  title: "Emre Ozkaplan",
-  description: "Hi I am Emre. This is my portfolio website",
+  title: "Eren Cagatay",
+  description: "Hi I am Eren. This is my portfolio website",
 };
 
 export default function RootLayout({ children }) {

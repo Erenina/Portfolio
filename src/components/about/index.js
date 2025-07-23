@@ -2,7 +2,7 @@
 import Image from "next/image"
 import Typewriter from 'typewriter-effect'
 import { Bio } from '../constants'
-import img from "@/images/emre.jpg"
+import img from "@/images/eren.jpg"
 import CustomButton from "../custom-button"
 import Link from "next/link"
 import { motion } from "framer-motion"
@@ -31,7 +31,7 @@ export default function About() {
         <div id="about" className='bg-[#191924] pt-20'>
             <motion.div variants={container} initial='hidden' animate='visible' className='w-full container mx-auto max-w-6xl text-white flex flex-col-reverse gap-y-4 md:gap-y-0 px-5 md:px-0 md:grid md:grid-cols-2 items-center'>
                 <motion.div variants={item} className='flex flex-col gap-3 mb-16'>
-                    <div className='flex flex-col text-4xl sm:text-5xl font-bold gap-4'>Hi, I am <span>Emre Özkaplan</span></div>
+                    <div className='flex flex-col text-4xl sm:text-5xl font-bold gap-4'>Hi, I am <span>Eren Çağatay</span></div>
                     <div className='flex gap-1.5 text-xl sm:text-2xl font-semibold items-center'>
                         <span>I am a</span>
                         <div className='text-[#854CE6]'>

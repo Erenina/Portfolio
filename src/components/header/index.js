@@ -3,7 +3,7 @@ import { Navbar, NavbarBrand, NavbarContent, NavbarItem } from "@nextui-org/reac
 import Link from "next/link"
 import CustomButton from "../custom-button";
 import { SocialMedia } from "../constants";
-import img from '@/images/emre.jpg'
+import img from '@/images/eren.jpg'
 import Image from "next/image"
 
 export default function App() {
@@ -14,7 +14,7 @@ export default function App() {
                     <div className="flex items-center gap-2">
                         <Image src={img} className="rounded-full" width={40} height={40} />
                         <div className="flex flex-col">
-                            <div className="text-sm font-medium text-[#D6EDFC]">Emre Özkaplan</div>
+                            <div className="text-sm font-medium text-[#D6EDFC]">Eren Çağatay</div>
                             <Link href={SocialMedia.instagramUrl} target="_blank" rel="noreferrer" className="text-[#91949C] text-xs font-normal">{SocialMedia.instagramText}</Link>
                         </div>
                     </div>
