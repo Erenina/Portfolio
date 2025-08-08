@@ -138,7 +138,7 @@ export const CertificatesSet = [
     {
         name: 'TR7 Load Balancer & WAF',
         issuer: 'TR7',
-        date: 'July 2025',
+        date: 'January 2023',
         description: 'Training on load balancing and web application firewall technologies. Gained expertise in network security, traffic management, and application protection.',
         image: '/PHOTO-2025-07-23-23-00-48.jpg',
         link: 'https://example.com/tr7-certificate'
@@ -146,7 +146,7 @@ export const CertificatesSet = [
     {
         name: 'The Advance & Proficiency Level Entrepreneurship Training',
         issuer: 'Energy Transition Entrepreneurs in Action (ETEIA)',
-        date: 'August 2025',
+        date: 'December 2022',
         description: 'Advanced entrepreneurship training focusing on energy transition and sustainable business practices. Gained expertise in renewable energy business models, market analysis, and sustainable development strategies.',
         image: '/Screenshot 2025-08-07 at 23.46.00.png',
         link: 'https://example.com/eteia-certificate'

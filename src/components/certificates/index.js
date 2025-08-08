@@ -120,8 +120,7 @@ export default function Certificates() {
                 <motion.div variants={container} initial='hidden' animate='visible' className="flex flex-col items-center justify-center gap-6">
                     <motion.div variants={item} className="text-white text-4xl font-medium">Certificates</motion.div>
                     <motion.div variants={item} className="text-[#b1b2b3] text-center max-w-[600px] text-sm sm:text-lg">
-                        I have obtained various certifications that demonstrate my expertise and commitment to continuous learning. 
-                        These certificates validate my skills and knowledge in different areas of technology and development.
+                        Over the years, I have obtained various certifications. These certifications validate my skills and knowledge in the fields of technology and development.
                     </motion.div>
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-8 gap-y-12 mb-10">
                         {CertificatesSet.map((certificate, index) => (
