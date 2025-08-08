@@ -21,6 +21,9 @@ export default function Footer() {
                         <a color="foreground" className="hover:text-[#854CE6] ease-in-out duration-300" href="#projects">
                             Projects
                         </a>
+                        <a color="foreground" className="hover:text-[#854CE6] ease-in-out duration-300" href="#certificates">
+                            Certificates
+                        </a>
                         <a color="foreground" className="hover:text-[#854CE6] ease-in-out duration-300" href="#contact">
                             Contact
                         </a>
